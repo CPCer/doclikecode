@@ -10,6 +10,10 @@ Underline titles with punctuation
 ReST example markup
 -------------------
 
+|替代图片|
+
+.. |替代图片| image:: https://imgsa.baidu.com/%C1%AD%B5%B6%CA%D5%B8%EE%BB%FA%BC%D7/pic/item/b7f3f57c92d6145b29388a11.jpg
+
 *Italic*\ **bold** ``name`` ``function()`` ``expression = 3 + 3``
 (`Hyperlink <http://en.wikipedia.org/wiki/Hyperlink>`_) `Link`_
 
