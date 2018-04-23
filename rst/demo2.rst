@@ -10,7 +10,7 @@ Underline titles with punctuation
 ReST example markup
 -------------------
 
-*Italic*\\**bold** ``name`` ``function()`` ``expression = 3 + 3``
+*Italic*\\\**bold** ``name`` ``function()`` ``expression = 3 + 3``
 `Hyperlink <http://en.wikipedia.org/wiki/Hyperlink>`_ `Link`_
 
 .. _Link: http://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)
