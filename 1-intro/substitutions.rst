@@ -1,7 +1,7 @@
 替代（Substitutions）
 ====================
 
-reST语言支持"替代"( `参考 <http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#substitution-definitions>`_)，即使用 **|替代名称|** 的格式定义的文本和（或）标记对象，类似脚注，使用显式标记文本块定义，例如::
+reST语言支持"替代"(\ `参考 <http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html#substitution-definitions>`_)，即使用 **|替代名称|** 的格式定义的文本和（或）标记对象，类似脚注，使用显式标记文本块定义，例如::
 
 	.. |替代名称| replace:: replacement *实际名称*
 
