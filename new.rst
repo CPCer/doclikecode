@@ -7,7 +7,7 @@ scrapy：::
   # coding=utf-8
   import json
   import scrapy
-  -------------
+  
   class PositionSpider(scrapy.Spider):
       name = "position"
       # allowed_domains = ["lagou.com/zhaopin/"]
